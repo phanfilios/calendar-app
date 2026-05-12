@@ -14,6 +14,14 @@ App movil en React Native para consultar la agenda del 56 aniversario de la Prov
 - Manejo defensivo de datos locales corruptos o pantallas abiertas sin parametros.
 - Script de Android preparado para proyectos ubicados en OneDrive.
 
+
+<img width="355" height="650" alt="image" src="https://github.com/user-attachments/assets/aeac019a-d085-47a3-b870-6476d59619a1" />
+<img width="352" height="655" alt="image" src="https://github.com/user-attachments/assets/9e63a648-eb06-42d1-bc7d-e426128922f3" />
+<img width="353" height="681" alt="image" src="https://github.com/user-attachments/assets/cd7fbf93-86e2-4cc8-96ae-0097695e3b41" />
+<img width="340" height="631" alt="image" src="https://github.com/user-attachments/assets/309c9e13-e84c-4162-a19b-29646ef33fe8" />
+<img width="347" height="628" alt="image" src="https://github.com/user-attachments/assets/5ba87983-2c12-47d5-b68b-04edc916d606" />
+
+
 ## Requisitos
 
 - Node.js 16 o superior.
